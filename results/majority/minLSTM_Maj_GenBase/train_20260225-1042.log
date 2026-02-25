@@ -1,0 +1,4 @@
+Experiment: minLSTM_Maj_GenBase
+Total number of parameters: 1025792
+
+minLSTM:minLSTM_Maj_GenBase step 0 lr 3.000e-04 [train] loss 4.4119 acc 0.0000 (0.499 secs)

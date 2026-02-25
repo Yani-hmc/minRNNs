@@ -1,0 +1,33 @@
+Experiment: GRU_depth5
+Total number of parameters: 2345728
+
+gru:GRU_depth5 step 0 lr 3.000e-04 [train] loss 4.2541 acc 0.0156 (0.561 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 4.2365 acc 0.0233 (27.285 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 200 lr 3.000e-04 [train] loss 2.9108 acc 0.3257 (39.799 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 3.3836 acc 0.1876 (27.408 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 400 lr 3.000e-04 [train] loss 1.7045 acc 0.5481 (39.737 secs)
+gru:GRU_depth5 step 600 lr 3.000e-04 [train] loss 1.2275 acc 0.6591 (12.554 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 2.8041 acc 0.2739 (27.321 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 800 lr 3.000e-04 [train] loss 1.0050 acc 0.7033 (40.577 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 2.3778 acc 0.3525 (27.245 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 1000 lr 3.000e-04 [train] loss 0.8923 acc 0.7337 (39.816 secs)
+gru:GRU_depth5 step 1200 lr 3.000e-04 [train] loss 0.7446 acc 0.7768 (12.861 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 2.1777 acc 0.3886 (27.424 secs)
+
+Early Stopping!
+Evaluating on test
+gru: GRU_depth5[test] loss 2.2191 acc 0.3791 (28.645 secs)
+

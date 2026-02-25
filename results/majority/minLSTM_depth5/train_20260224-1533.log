@@ -1,0 +1,4 @@
+Experiment: minLSTM_depth5
+Total number of parameters: 1687808
+
+minLSTM:minLSTM_depth5 step 0 lr 3.000e-04 [train] loss 4.3488 acc 0.0078 (1.578 secs)

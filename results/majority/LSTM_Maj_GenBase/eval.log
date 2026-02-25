@@ -1,0 +1,2 @@
+Evaluating on val
+lstm: LSTM_Maj_GenBase[val] loss 1.2984 acc 0.7233 (16.490 secs)

@@ -1,0 +1,275 @@
+Experiment: minLSTM_depth1
+Total number of parameters: 363776
+
+minLSTM:minLSTM_depth1 step 0 lr 3.000e-04 [train] loss 4.4458 acc 0.0078 (2.675 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 4.2409 acc 0.0137 (18.101 secs)
+
+Early Stopping!
+minLSTM:minLSTM_depth1 step 100 lr 3.000e-04 [train] loss 3.2585 acc 0.2423 (28.434 secs)
+minLSTM:minLSTM_depth1 step 200 lr 3.000e-04 [train] loss 1.9298 acc 0.5034 (4.054 secs)
+minLSTM:minLSTM_depth1 step 300 lr 3.000e-04 [train] loss 1.5105 acc 0.5904 (4.572 secs)
+minLSTM:minLSTM_depth1 step 400 lr 3.000e-04 [train] loss 1.1601 acc 0.6823 (5.271 secs)
+minLSTM:minLSTM_depth1 step 500 lr 3.000e-04 [train] loss 1.0553 acc 0.7037 (3.989 secs)
+minLSTM:minLSTM_depth1 step 600 lr 3.000e-04 [train] loss 0.9322 acc 0.7448 (4.429 secs)
+minLSTM:minLSTM_depth1 step 700 lr 3.000e-04 [train] loss 0.9006 acc 0.7396 (5.326 secs)
+minLSTM:minLSTM_depth1 step 800 lr 3.000e-04 [train] loss 0.7502 acc 0.7914 (3.886 secs)
+minLSTM:minLSTM_depth1 step 900 lr 3.000e-04 [train] loss 0.6793 acc 0.8084 (3.078 secs)
+minLSTM:minLSTM_depth1 step 1000 lr 3.000e-04 [train] loss 0.5594 acc 0.8503 (2.095 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 2.0378 acc 0.4175 (15.059 secs)
+
+Early Stopping!
+minLSTM:minLSTM_depth1 step 1100 lr 3.000e-04 [train] loss 0.6493 acc 0.8105 (19.726 secs)
+minLSTM:minLSTM_depth1 step 1200 lr 3.000e-04 [train] loss 0.6156 acc 0.8268 (3.745 secs)
+minLSTM:minLSTM_depth1 step 1300 lr 3.000e-04 [train] loss 0.5627 acc 0.8430 (3.458 secs)
+minLSTM:minLSTM_depth1 step 1400 lr 3.000e-04 [train] loss 0.5158 acc 0.8567 (3.963 secs)
+minLSTM:minLSTM_depth1 step 1500 lr 3.000e-04 [train] loss 0.5020 acc 0.8641 (3.266 secs)
+minLSTM:minLSTM_depth1 step 1600 lr 3.000e-04 [train] loss 0.4835 acc 0.8654 (3.546 secs)
+minLSTM:minLSTM_depth1 step 1700 lr 3.000e-04 [train] loss 0.4479 acc 0.8770 (3.670 secs)
+minLSTM:minLSTM_depth1 step 1800 lr 3.000e-04 [train] loss 0.4476 acc 0.8802 (4.704 secs)
+minLSTM:minLSTM_depth1 step 1900 lr 3.000e-04 [train] loss 0.4220 acc 0.8807 (3.721 secs)
+minLSTM:minLSTM_depth1 step 2000 lr 3.000e-04 [train] loss 0.4116 acc 0.8917 (3.690 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 1.6402 acc 0.5035 (16.086 secs)
+
+Early Stopping!
+minLSTM:minLSTM_depth1 step 2100 lr 3.000e-04 [train] loss 0.4027 acc 0.8848 (21.420 secs)
+minLSTM:minLSTM_depth1 step 2200 lr 3.000e-04 [train] loss 0.3832 acc 0.8866 (3.112 secs)
+minLSTM:minLSTM_depth1 step 2300 lr 3.000e-04 [train] loss 0.3789 acc 0.8968 (3.371 secs)
+minLSTM:minLSTM_depth1 step 2400 lr 3.000e-04 [train] loss 0.3756 acc 0.8890 (3.551 secs)
+minLSTM:minLSTM_depth1 step 2500 lr 3.000e-04 [train] loss 0.3410 acc 0.9098 (3.540 secs)
+minLSTM:minLSTM_depth1 step 2600 lr 3.000e-04 [train] loss 0.3525 acc 0.9065 (3.136 secs)
+minLSTM:minLSTM_depth1 step 2700 lr 3.000e-04 [train] loss 0.3284 acc 0.9124 (3.524 secs)
+minLSTM:minLSTM_depth1 step 2800 lr 3.000e-04 [train] loss 0.3418 acc 0.9022 (3.271 secs)
+minLSTM:minLSTM_depth1 step 2900 lr 3.000e-04 [train] loss 0.3030 acc 0.9190 (3.279 secs)
+minLSTM:minLSTM_depth1 step 3000 lr 3.000e-04 [train] loss 0.3095 acc 0.9141 (3.659 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 1.3563 acc 0.5873 (16.728 secs)
+
+Early Stopping!
+minLSTM:minLSTM_depth1 step 3100 lr 3.000e-04 [train] loss 0.3008 acc 0.9155 (22.546 secs)
+minLSTM:minLSTM_depth1 step 3200 lr 3.000e-04 [train] loss 0.3106 acc 0.9140 (5.247 secs)
+minLSTM:minLSTM_depth1 step 3300 lr 3.000e-04 [train] loss 0.2972 acc 0.9160 (4.405 secs)
+minLSTM:minLSTM_depth1 step 3400 lr 3.000e-04 [train] loss 0.2933 acc 0.9175 (4.522 secs)
+minLSTM:minLSTM_depth1 step 3500 lr 3.000e-04 [train] loss 0.3024 acc 0.9095 (5.609 secs)
+minLSTM:minLSTM_depth1 step 3600 lr 3.000e-04 [train] loss 0.2879 acc 0.9175 (4.891 secs)
+minLSTM:minLSTM_depth1 step 3700 lr 3.000e-04 [train] loss 0.2832 acc 0.9194 (4.991 secs)
+minLSTM:minLSTM_depth1 step 3800 lr 3.000e-04 [train] loss 0.2800 acc 0.9166 (4.818 secs)
+minLSTM:minLSTM_depth1 step 3900 lr 3.000e-04 [train] loss 0.2821 acc 0.9150 (4.314 secs)
+minLSTM:minLSTM_depth1 step 4000 lr 3.000e-04 [train] loss 0.2891 acc 0.9127 (5.136 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 1.4098 acc 0.5818 (15.355 secs)
+
+minLSTM:minLSTM_depth1 step 4100 lr 3.000e-04 [train] loss 0.2619 acc 0.9270 (20.643 secs)
+minLSTM:minLSTM_depth1 step 4200 lr 3.000e-04 [train] loss 0.2807 acc 0.9216 (3.457 secs)
+minLSTM:minLSTM_depth1 step 4300 lr 3.000e-04 [train] loss 0.2751 acc 0.9158 (3.289 secs)
+minLSTM:minLSTM_depth1 step 4400 lr 3.000e-04 [train] loss 0.2453 acc 0.9335 (3.941 secs)
+minLSTM:minLSTM_depth1 step 4500 lr 3.000e-04 [train] loss 0.2611 acc 0.9215 (2.969 secs)
+minLSTM:minLSTM_depth1 step 4600 lr 3.000e-04 [train] loss 0.2461 acc 0.9305 (3.107 secs)
+minLSTM:minLSTM_depth1 step 4700 lr 3.000e-04 [train] loss 0.2365 acc 0.9330 (3.132 secs)
+minLSTM:minLSTM_depth1 step 4800 lr 3.000e-04 [train] loss 0.2231 acc 0.9390 (3.419 secs)
+minLSTM:minLSTM_depth1 step 4900 lr 3.000e-04 [train] loss 0.2299 acc 0.9335 (3.121 secs)
+minLSTM:minLSTM_depth1 step 5000 lr 3.000e-04 [train] loss 0.2230 acc 0.9391 (3.811 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 1.1422 acc 0.6495 (14.481 secs)
+
+Early Stopping!
+minLSTM:minLSTM_depth1 step 5100 lr 3.000e-04 [train] loss 0.2524 acc 0.9227 (19.784 secs)
+minLSTM:minLSTM_depth1 step 5200 lr 3.000e-04 [train] loss 0.2437 acc 0.9291 (4.104 secs)
+minLSTM:minLSTM_depth1 step 5300 lr 3.000e-04 [train] loss 0.2199 acc 0.9352 (3.174 secs)
+minLSTM:minLSTM_depth1 step 5400 lr 3.000e-04 [train] loss 0.2262 acc 0.9334 (3.337 secs)
+minLSTM:minLSTM_depth1 step 5500 lr 3.000e-04 [train] loss 0.2400 acc 0.9276 (3.816 secs)
+minLSTM:minLSTM_depth1 step 5600 lr 3.000e-04 [train] loss 0.2121 acc 0.9406 (3.919 secs)
+minLSTM:minLSTM_depth1 step 5700 lr 3.000e-04 [train] loss 0.2111 acc 0.9408 (3.298 secs)
+minLSTM:minLSTM_depth1 step 5800 lr 3.000e-04 [train] loss 0.2002 acc 0.9443 (3.435 secs)
+minLSTM:minLSTM_depth1 step 5900 lr 3.000e-04 [train] loss 0.2128 acc 0.9406 (3.489 secs)
+minLSTM:minLSTM_depth1 step 6000 lr 3.000e-04 [train] loss 0.2090 acc 0.9409 (4.610 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.9286 acc 0.6898 (14.568 secs)
+
+Early Stopping!
+minLSTM:minLSTM_depth1 step 6100 lr 3.000e-04 [train] loss 0.2145 acc 0.9381 (19.883 secs)
+minLSTM:minLSTM_depth1 step 6200 lr 3.000e-04 [train] loss 0.2019 acc 0.9439 (4.018 secs)
+minLSTM:minLSTM_depth1 step 6300 lr 3.000e-04 [train] loss 0.2124 acc 0.9334 (4.238 secs)
+minLSTM:minLSTM_depth1 step 6400 lr 3.000e-04 [train] loss 0.1966 acc 0.9416 (4.309 secs)
+minLSTM:minLSTM_depth1 step 6500 lr 3.000e-04 [train] loss 0.1989 acc 0.9402 (4.402 secs)
+minLSTM:minLSTM_depth1 step 6600 lr 3.000e-04 [train] loss 0.1837 acc 0.9481 (4.624 secs)
+minLSTM:minLSTM_depth1 step 6700 lr 3.000e-04 [train] loss 0.1993 acc 0.9409 (4.373 secs)
+minLSTM:minLSTM_depth1 step 6800 lr 3.000e-04 [train] loss 0.2002 acc 0.9430 (4.542 secs)
+minLSTM:minLSTM_depth1 step 6900 lr 3.000e-04 [train] loss 0.1865 acc 0.9502 (5.606 secs)
+minLSTM:minLSTM_depth1 step 7000 lr 3.000e-04 [train] loss 0.1895 acc 0.9445 (4.852 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.8590 acc 0.7151 (17.580 secs)
+
+Early Stopping!
+minLSTM:minLSTM_depth1 step 7100 lr 3.000e-04 [train] loss 0.1786 acc 0.9492 (24.664 secs)
+minLSTM:minLSTM_depth1 step 7200 lr 3.000e-04 [train] loss 0.1917 acc 0.9459 (3.808 secs)
+minLSTM:minLSTM_depth1 step 7300 lr 3.000e-04 [train] loss 0.1754 acc 0.9507 (3.843 secs)
+minLSTM:minLSTM_depth1 step 7400 lr 3.000e-04 [train] loss 0.1695 acc 0.9522 (3.840 secs)
+minLSTM:minLSTM_depth1 step 7500 lr 3.000e-04 [train] loss 0.2259 acc 0.9280 (4.301 secs)
+minLSTM:minLSTM_depth1 step 7600 lr 3.000e-04 [train] loss 0.1860 acc 0.9448 (3.358 secs)
+minLSTM:minLSTM_depth1 step 7700 lr 3.000e-04 [train] loss 0.1696 acc 0.9525 (3.959 secs)
+minLSTM:minLSTM_depth1 step 7800 lr 3.000e-04 [train] loss 0.1855 acc 0.9449 (4.398 secs)
+minLSTM:minLSTM_depth1 step 7900 lr 3.000e-04 [train] loss 0.1900 acc 0.9419 (4.415 secs)
+minLSTM:minLSTM_depth1 step 8000 lr 3.000e-04 [train] loss 0.1670 acc 0.9507 (3.982 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.8695 acc 0.7046 (13.145 secs)
+
+minLSTM:minLSTM_depth1 step 8100 lr 3.000e-04 [train] loss 0.1804 acc 0.9483 (18.158 secs)
+minLSTM:minLSTM_depth1 step 8200 lr 3.000e-04 [train] loss 0.1795 acc 0.9462 (3.921 secs)
+minLSTM:minLSTM_depth1 step 8300 lr 3.000e-04 [train] loss 0.1717 acc 0.9509 (3.293 secs)
+minLSTM:minLSTM_depth1 step 8400 lr 3.000e-04 [train] loss 0.1784 acc 0.9479 (3.527 secs)
+minLSTM:minLSTM_depth1 step 8500 lr 3.000e-04 [train] loss 0.1712 acc 0.9476 (5.191 secs)
+minLSTM:minLSTM_depth1 step 8600 lr 3.000e-04 [train] loss 0.1764 acc 0.9481 (3.201 secs)
+minLSTM:minLSTM_depth1 step 8700 lr 3.000e-04 [train] loss 0.1767 acc 0.9491 (3.498 secs)
+minLSTM:minLSTM_depth1 step 8800 lr 3.000e-04 [train] loss 0.1596 acc 0.9549 (3.538 secs)
+minLSTM:minLSTM_depth1 step 8900 lr 3.000e-04 [train] loss 0.1664 acc 0.9509 (4.244 secs)
+minLSTM:minLSTM_depth1 step 9000 lr 3.000e-04 [train] loss 0.1586 acc 0.9553 (3.899 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.8093 acc 0.7234 (13.186 secs)
+
+Early Stopping!
+minLSTM:minLSTM_depth1 step 9100 lr 3.000e-04 [train] loss 0.1630 acc 0.9480 (18.481 secs)
+minLSTM:minLSTM_depth1 step 9200 lr 3.000e-04 [train] loss 0.1711 acc 0.9473 (4.428 secs)
+minLSTM:minLSTM_depth1 step 9300 lr 3.000e-04 [train] loss 0.1674 acc 0.9501 (3.948 secs)
+minLSTM:minLSTM_depth1 step 9400 lr 3.000e-04 [train] loss 0.1735 acc 0.9434 (4.260 secs)
+minLSTM:minLSTM_depth1 step 9500 lr 3.000e-04 [train] loss 0.1657 acc 0.9523 (5.121 secs)
+minLSTM:minLSTM_depth1 step 9600 lr 3.000e-04 [train] loss 0.1582 acc 0.9569 (3.858 secs)
+minLSTM:minLSTM_depth1 step 9700 lr 3.000e-04 [train] loss 0.1304 acc 0.9680 (3.891 secs)
+minLSTM:minLSTM_depth1 step 9800 lr 3.000e-04 [train] loss 0.1591 acc 0.9504 (4.119 secs)
+minLSTM:minLSTM_depth1 step 9900 lr 3.000e-04 [train] loss 0.1600 acc 0.9521 (5.113 secs)
+minLSTM:minLSTM_depth1 step 10000 lr 3.000e-04 [train] loss 0.1506 acc 0.9549 (4.574 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.7688 acc 0.7341 (17.153 secs)
+
+Early Stopping!
+minLSTM:minLSTM_depth1 step 10100 lr 3.000e-04 [train] loss 0.1526 acc 0.9547 (23.494 secs)
+minLSTM:minLSTM_depth1 step 10200 lr 3.000e-04 [train] loss 0.1471 acc 0.9567 (3.809 secs)
+minLSTM:minLSTM_depth1 step 10300 lr 3.000e-04 [train] loss 0.1640 acc 0.9520 (3.879 secs)
+minLSTM:minLSTM_depth1 step 10400 lr 3.000e-04 [train] loss 0.1460 acc 0.9570 (4.889 secs)
+minLSTM:minLSTM_depth1 step 10500 lr 3.000e-04 [train] loss 0.1497 acc 0.9564 (3.784 secs)
+minLSTM:minLSTM_depth1 step 10600 lr 3.000e-04 [train] loss 0.1396 acc 0.9588 (3.758 secs)
+minLSTM:minLSTM_depth1 step 10700 lr 3.000e-04 [train] loss 0.1654 acc 0.9503 (3.581 secs)
+minLSTM:minLSTM_depth1 step 10800 lr 3.000e-04 [train] loss 0.1424 acc 0.9615 (4.322 secs)
+minLSTM:minLSTM_depth1 step 10900 lr 3.000e-04 [train] loss 0.1372 acc 0.9602 (4.355 secs)
+minLSTM:minLSTM_depth1 step 11000 lr 3.000e-04 [train] loss 0.1464 acc 0.9584 (4.172 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.8915 acc 0.7172 (13.153 secs)
+
+minLSTM:minLSTM_depth1 step 11100 lr 3.000e-04 [train] loss 0.1353 acc 0.9617 (17.572 secs)
+minLSTM:minLSTM_depth1 step 11200 lr 3.000e-04 [train] loss 0.1509 acc 0.9580 (3.668 secs)
+minLSTM:minLSTM_depth1 step 11300 lr 3.000e-04 [train] loss 0.1497 acc 0.9555 (3.067 secs)
+minLSTM:minLSTM_depth1 step 11400 lr 3.000e-04 [train] loss 0.1400 acc 0.9609 (3.295 secs)
+minLSTM:minLSTM_depth1 step 11500 lr 3.000e-04 [train] loss 0.1549 acc 0.9518 (3.426 secs)
+minLSTM:minLSTM_depth1 step 11600 lr 3.000e-04 [train] loss 0.1511 acc 0.9534 (3.425 secs)
+minLSTM:minLSTM_depth1 step 11700 lr 3.000e-04 [train] loss 0.1646 acc 0.9489 (3.403 secs)
+minLSTM:minLSTM_depth1 step 11800 lr 3.000e-04 [train] loss 0.1423 acc 0.9576 (4.039 secs)
+minLSTM:minLSTM_depth1 step 11900 lr 3.000e-04 [train] loss 0.1425 acc 0.9584 (4.497 secs)
+minLSTM:minLSTM_depth1 step 12000 lr 3.000e-04 [train] loss 0.1352 acc 0.9618 (4.125 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.6696 acc 0.7669 (13.259 secs)
+
+Early Stopping!
+minLSTM:minLSTM_depth1 step 12100 lr 3.000e-04 [train] loss 0.1194 acc 0.9671 (18.044 secs)
+minLSTM:minLSTM_depth1 step 12200 lr 3.000e-04 [train] loss 0.1287 acc 0.9635 (4.026 secs)
+minLSTM:minLSTM_depth1 step 12300 lr 3.000e-04 [train] loss 0.1436 acc 0.9575 (4.418 secs)
+minLSTM:minLSTM_depth1 step 12400 lr 3.000e-04 [train] loss 0.1356 acc 0.9608 (3.917 secs)
+minLSTM:minLSTM_depth1 step 12500 lr 3.000e-04 [train] loss 0.1434 acc 0.9570 (3.859 secs)
+minLSTM:minLSTM_depth1 step 12600 lr 3.000e-04 [train] loss 0.1466 acc 0.9545 (4.386 secs)
+minLSTM:minLSTM_depth1 step 12700 lr 3.000e-04 [train] loss 0.1258 acc 0.9639 (3.819 secs)
+minLSTM:minLSTM_depth1 step 12800 lr 3.000e-04 [train] loss 0.1470 acc 0.9547 (4.276 secs)
+minLSTM:minLSTM_depth1 step 12900 lr 3.000e-04 [train] loss 0.1290 acc 0.9615 (4.627 secs)
+minLSTM:minLSTM_depth1 step 13000 lr 3.000e-04 [train] loss 0.1184 acc 0.9669 (4.593 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.8119 acc 0.7304 (17.068 secs)
+
+minLSTM:minLSTM_depth1 step 13100 lr 3.000e-04 [train] loss 0.1352 acc 0.9603 (23.291 secs)
+minLSTM:minLSTM_depth1 step 13200 lr 3.000e-04 [train] loss 0.1153 acc 0.9698 (5.253 secs)
+minLSTM:minLSTM_depth1 step 13300 lr 3.000e-04 [train] loss 0.1354 acc 0.9609 (3.874 secs)
+minLSTM:minLSTM_depth1 step 13400 lr 3.000e-04 [train] loss 0.1399 acc 0.9564 (4.422 secs)
+minLSTM:minLSTM_depth1 step 13500 lr 3.000e-04 [train] loss 0.1382 acc 0.9601 (4.261 secs)
+minLSTM:minLSTM_depth1 step 13600 lr 3.000e-04 [train] loss 0.1384 acc 0.9594 (3.858 secs)
+minLSTM:minLSTM_depth1 step 13700 lr 3.000e-04 [train] loss 0.1346 acc 0.9596 (3.808 secs)
+minLSTM:minLSTM_depth1 step 13800 lr 3.000e-04 [train] loss 0.1200 acc 0.9663 (4.583 secs)
+minLSTM:minLSTM_depth1 step 13900 lr 3.000e-04 [train] loss 0.1237 acc 0.9633 (4.041 secs)
+minLSTM:minLSTM_depth1 step 14000 lr 3.000e-04 [train] loss 0.1184 acc 0.9691 (3.603 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.6681 acc 0.7700 (13.378 secs)
+
+Early Stopping!
+minLSTM:minLSTM_depth1 step 14100 lr 3.000e-04 [train] loss 0.1391 acc 0.9579 (18.634 secs)
+minLSTM:minLSTM_depth1 step 14200 lr 3.000e-04 [train] loss 0.1233 acc 0.9652 (3.540 secs)
+minLSTM:minLSTM_depth1 step 14300 lr 3.000e-04 [train] loss 0.1238 acc 0.9648 (3.289 secs)
+minLSTM:minLSTM_depth1 step 14400 lr 3.000e-04 [train] loss 0.1255 acc 0.9619 (3.398 secs)
+minLSTM:minLSTM_depth1 step 14500 lr 3.000e-04 [train] loss 0.1145 acc 0.9665 (3.479 secs)
+minLSTM:minLSTM_depth1 step 14600 lr 3.000e-04 [train] loss 0.1190 acc 0.9670 (3.516 secs)
+minLSTM:minLSTM_depth1 step 14700 lr 3.000e-04 [train] loss 0.1232 acc 0.9651 (3.125 secs)
+minLSTM:minLSTM_depth1 step 14800 lr 3.000e-04 [train] loss 0.1212 acc 0.9656 (4.141 secs)
+minLSTM:minLSTM_depth1 step 14900 lr 3.000e-04 [train] loss 0.1270 acc 0.9626 (4.753 secs)
+minLSTM:minLSTM_depth1 step 15000 lr 3.000e-04 [train] loss 0.1336 acc 0.9604 (3.973 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.7169 acc 0.7667 (13.247 secs)
+
+minLSTM:minLSTM_depth1 step 15100 lr 3.000e-04 [train] loss 0.1200 acc 0.9652 (17.816 secs)
+minLSTM:minLSTM_depth1 step 15200 lr 3.000e-04 [train] loss 0.1146 acc 0.9680 (3.710 secs)
+minLSTM:minLSTM_depth1 step 15300 lr 3.000e-04 [train] loss 0.1266 acc 0.9616 (5.254 secs)
+minLSTM:minLSTM_depth1 step 15400 lr 3.000e-04 [train] loss 0.1262 acc 0.9639 (4.084 secs)
+minLSTM:minLSTM_depth1 step 15500 lr 3.000e-04 [train] loss 0.1239 acc 0.9629 (4.107 secs)
+minLSTM:minLSTM_depth1 step 15600 lr 3.000e-04 [train] loss 0.1249 acc 0.9628 (4.606 secs)
+minLSTM:minLSTM_depth1 step 15700 lr 3.000e-04 [train] loss 0.1117 acc 0.9698 (4.049 secs)
+minLSTM:minLSTM_depth1 step 15800 lr 3.000e-04 [train] loss 0.1167 acc 0.9678 (4.763 secs)
+minLSTM:minLSTM_depth1 step 15900 lr 3.000e-04 [train] loss 0.1188 acc 0.9644 (4.913 secs)
+minLSTM:minLSTM_depth1 step 16000 lr 3.000e-04 [train] loss 0.1270 acc 0.9612 (4.019 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.6883 acc 0.7638 (16.919 secs)
+
+minLSTM:minLSTM_depth1 step 16100 lr 3.000e-04 [train] loss 0.1132 acc 0.9670 (22.280 secs)
+minLSTM:minLSTM_depth1 step 16200 lr 3.000e-04 [train] loss 0.1235 acc 0.9627 (5.106 secs)
+minLSTM:minLSTM_depth1 step 16300 lr 3.000e-04 [train] loss 0.1051 acc 0.9707 (4.114 secs)
+minLSTM:minLSTM_depth1 step 16400 lr 3.000e-04 [train] loss 0.1086 acc 0.9696 (4.029 secs)
+minLSTM:minLSTM_depth1 step 16500 lr 3.000e-04 [train] loss 0.1085 acc 0.9699 (4.678 secs)
+minLSTM:minLSTM_depth1 step 16600 lr 3.000e-04 [train] loss 0.1113 acc 0.9674 (3.947 secs)
+minLSTM:minLSTM_depth1 step 16700 lr 3.000e-04 [train] loss 0.1037 acc 0.9730 (4.348 secs)
+minLSTM:minLSTM_depth1 step 16800 lr 3.000e-04 [train] loss 0.1092 acc 0.9684 (5.320 secs)
+minLSTM:minLSTM_depth1 step 16900 lr 3.000e-04 [train] loss 0.1083 acc 0.9701 (4.440 secs)
+minLSTM:minLSTM_depth1 step 17000 lr 3.000e-04 [train] loss 0.1131 acc 0.9660 (3.140 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.8786 acc 0.7308 (12.344 secs)
+
+minLSTM:minLSTM_depth1 step 17100 lr 3.000e-04 [train] loss 0.1098 acc 0.9677 (16.926 secs)
+minLSTM:minLSTM_depth1 step 17200 lr 3.000e-04 [train] loss 0.1109 acc 0.9702 (3.915 secs)
+minLSTM:minLSTM_depth1 step 17300 lr 3.000e-04 [train] loss 0.1081 acc 0.9697 (3.456 secs)
+minLSTM:minLSTM_depth1 step 17400 lr 3.000e-04 [train] loss 0.1119 acc 0.9682 (3.596 secs)
+minLSTM:minLSTM_depth1 step 17500 lr 3.000e-04 [train] loss 0.1175 acc 0.9674 (3.576 secs)
+minLSTM:minLSTM_depth1 step 17600 lr 3.000e-04 [train] loss 0.1168 acc 0.9643 (4.132 secs)
+minLSTM:minLSTM_depth1 step 17700 lr 3.000e-04 [train] loss 0.1233 acc 0.9637 (4.335 secs)
+minLSTM:minLSTM_depth1 step 17800 lr 3.000e-04 [train] loss 0.1184 acc 0.9645 (4.118 secs)
+minLSTM:minLSTM_depth1 step 17900 lr 3.000e-04 [train] loss 0.1112 acc 0.9699 (3.970 secs)
+minLSTM:minLSTM_depth1 step 18000 lr 3.000e-04 [train] loss 0.0983 acc 0.9719 (3.083 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.8505 acc 0.7369 (12.204 secs)
+
+minLSTM:minLSTM_depth1 step 18100 lr 3.000e-04 [train] loss 0.1047 acc 0.9703 (17.073 secs)
+minLSTM:minLSTM_depth1 step 18200 lr 3.000e-04 [train] loss 0.1118 acc 0.9674 (3.789 secs)
+minLSTM:minLSTM_depth1 step 18300 lr 3.000e-04 [train] loss 0.0979 acc 0.9724 (3.952 secs)
+minLSTM:minLSTM_depth1 step 18400 lr 3.000e-04 [train] loss 0.1017 acc 0.9701 (4.155 secs)
+minLSTM:minLSTM_depth1 step 18500 lr 3.000e-04 [train] loss 0.1129 acc 0.9659 (3.906 secs)
+minLSTM:minLSTM_depth1 step 18600 lr 3.000e-04 [train] loss 0.1072 acc 0.9711 (4.351 secs)
+minLSTM:minLSTM_depth1 step 18700 lr 3.000e-04 [train] loss 0.1093 acc 0.9669 (4.907 secs)
+minLSTM:minLSTM_depth1 step 18800 lr 3.000e-04 [train] loss 0.1110 acc 0.9670 (4.463 secs)
+minLSTM:minLSTM_depth1 step 18900 lr 3.000e-04 [train] loss 0.0946 acc 0.9738 (4.316 secs)
+minLSTM:minLSTM_depth1 step 19000 lr 3.000e-04 [train] loss 0.1116 acc 0.9674 (4.581 secs)
+Evaluating on val
+minLSTM: minLSTM_depth1[val] loss 0.7747 acc 0.7504 (15.500 secs)
+
+minLSTM:minLSTM_depth1 step 19100 lr 3.000e-04 [train] loss 0.1159 acc 0.9650 (20.747 secs)
+minLSTM:minLSTM_depth1 step 19200 lr 3.000e-04 [train] loss 0.0990 acc 0.9727 (3.687 secs)
+minLSTM:minLSTM_depth1 step 19300 lr 3.000e-04 [train] loss 0.1098 acc 0.9690 (4.445 secs)
+minLSTM:minLSTM_depth1 step 19400 lr 3.000e-04 [train] loss 0.1040 acc 0.9694 (3.842 secs)
+minLSTM:minLSTM_depth1 step 19500 lr 3.000e-04 [train] loss 0.0986 acc 0.9725 (3.683 secs)
+minLSTM:minLSTM_depth1 step 19600 lr 3.000e-04 [train] loss 0.1196 acc 0.9645 (4.557 secs)
+minLSTM:minLSTM_depth1 step 19700 lr 3.000e-04 [train] loss 0.1136 acc 0.9656 (4.908 secs)
+minLSTM:minLSTM_depth1 step 19800 lr 3.000e-04 [train] loss 0.1150 acc 0.9665 (4.456 secs)
+minLSTM:minLSTM_depth1 step 19900 lr 3.000e-04 [train] loss 0.1168 acc 0.9617 (4.540 secs)
+minLSTM:minLSTM_depth1 step 20000 lr 3.000e-04 [train] loss 0.0983 acc 0.9728 (2.820 secs)

@@ -1,0 +1,2 @@
+Evaluating on val
+transformer: Transformer_Maj_GenBase[val] loss 0.9665 acc 0.7699 (13.771 secs)

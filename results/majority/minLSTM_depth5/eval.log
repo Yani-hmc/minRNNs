@@ -1,0 +1,2 @@
+Evaluating on test
+minLSTM: minLSTM_depth5[test] loss 3.0506 acc 0.3153 (21.833 secs)

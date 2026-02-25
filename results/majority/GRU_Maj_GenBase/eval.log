@@ -1,0 +1,2 @@
+Evaluating on val
+gru: GRU_Maj_GenBase[val] loss 1.4247 acc 0.5809 (15.293 secs)

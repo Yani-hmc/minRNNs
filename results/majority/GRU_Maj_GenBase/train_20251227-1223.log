@@ -1,0 +1,32 @@
+Experiment: GRU_Maj_GenBase
+Total number of parameters: 1814528
+
+lstm:GRU_Maj_GenBase step 0 lr 3.000e-04 [train] loss 4.3287 acc 0.0156 (0.433 secs)
+Evaluating on val
+lstm: GRU_Maj_GenBase[val] loss 4.2450 acc 0.0159 (16.515 secs)
+
+Early Stopping!
+lstm:GRU_Maj_GenBase step 100 lr 3.000e-04 [train] loss 3.4436 acc 0.2106 (18.664 secs)
+lstm:GRU_Maj_GenBase step 200 lr 3.000e-04 [train] loss 2.1366 acc 0.4702 (1.875 secs)
+lstm:GRU_Maj_GenBase step 300 lr 3.000e-04 [train] loss 1.5644 acc 0.5941 (1.815 secs)
+lstm:GRU_Maj_GenBase step 400 lr 3.000e-04 [train] loss 1.2647 acc 0.6534 (1.746 secs)
+lstm:GRU_Maj_GenBase step 500 lr 3.000e-04 [train] loss 1.1670 acc 0.6781 (1.835 secs)
+lstm:GRU_Maj_GenBase step 600 lr 3.000e-04 [train] loss 1.0907 acc 0.6936 (1.962 secs)
+lstm:GRU_Maj_GenBase step 700 lr 3.000e-04 [train] loss 0.9224 acc 0.7410 (1.959 secs)
+lstm:GRU_Maj_GenBase step 800 lr 3.000e-04 [train] loss 0.7993 acc 0.7700 (1.773 secs)
+lstm:GRU_Maj_GenBase step 900 lr 3.000e-04 [train] loss 0.7530 acc 0.7793 (1.779 secs)
+lstm:GRU_Maj_GenBase step 1000 lr 3.000e-04 [train] loss 0.7287 acc 0.7822 (1.879 secs)
+Evaluating on val
+lstm: GRU_Maj_GenBase[val] loss 2.6234 acc 0.3332 (16.562 secs)
+
+Early Stopping!
+lstm:GRU_Maj_GenBase step 1100 lr 3.000e-04 [train] loss 0.6730 acc 0.7970 (18.703 secs)
+lstm:GRU_Maj_GenBase step 1200 lr 3.000e-04 [train] loss 0.6147 acc 0.8176 (1.753 secs)
+lstm:GRU_Maj_GenBase step 1300 lr 3.000e-04 [train] loss 0.5659 acc 0.8312 (1.743 secs)
+lstm:GRU_Maj_GenBase step 1400 lr 3.000e-04 [train] loss 0.5664 acc 0.8283 (1.772 secs)
+lstm:GRU_Maj_GenBase step 1500 lr 3.000e-04 [train] loss 0.5549 acc 0.8309 (1.816 secs)
+lstm:GRU_Maj_GenBase step 1600 lr 3.000e-04 [train] loss 0.5354 acc 0.8378 (1.873 secs)
+lstm:GRU_Maj_GenBase step 1700 lr 3.000e-04 [train] loss 0.5154 acc 0.8400 (1.896 secs)
+lstm:GRU_Maj_GenBase step 1800 lr 3.000e-04 [train] loss 0.4438 acc 0.8623 (1.795 secs)
+lstm:GRU_Maj_GenBase step 1900 lr 3.000e-04 [train] loss 0.4421 acc 0.8597 (1.747 secs)
+lstm:GRU_Maj_GenBase step 2000 lr 3.000e-04 [train] loss 0.4509 acc 0.8594 (1.764 secs)

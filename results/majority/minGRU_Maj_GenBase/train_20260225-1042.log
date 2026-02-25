@@ -1,0 +1,4 @@
+Experiment: minGRU_Maj_GenBase
+Total number of parameters: 828416
+
+minGRU:minGRU_Maj_GenBase step 0 lr 3.000e-04 [train] loss 4.3178 acc 0.0078 (0.940 secs)

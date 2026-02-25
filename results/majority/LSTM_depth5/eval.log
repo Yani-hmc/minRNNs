@@ -1,0 +1,2 @@
+Evaluating on test
+lstm: LSTM_depth5[test] loss 2.6279 acc 0.3384 (31.303 secs)

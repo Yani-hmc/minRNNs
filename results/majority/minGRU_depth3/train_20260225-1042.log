@@ -1,0 +1,4 @@
+Experiment: minGRU_depth3
+Total number of parameters: 828416
+
+minGRU:minGRU_depth3 step 0 lr 3.000e-04 [train] loss 4.3560 acc 0.0156 (0.645 secs)

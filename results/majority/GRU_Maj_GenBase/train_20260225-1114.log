@@ -1,0 +1,10 @@
+Experiment: GRU_Maj_GenBase
+Total number of parameters: 1420544
+
+gru:GRU_Maj_GenBase step 0 lr 3.000e-04 [train] loss 4.3336 acc 0.0156 (1.251 secs)
+Evaluating on val
+gru: GRU_Maj_GenBase[val] loss 4.2415 acc 0.0246 (15.031 secs)
+
+Early Stopping!
+gru:GRU_Maj_GenBase step 100 lr 3.000e-04 [train] loss 3.5782 acc 0.1873 (31.866 secs)
+gru:GRU_Maj_GenBase step 200 lr 3.000e-04 [train] loss 2.5513 acc 0.3968 (3.636 secs)
