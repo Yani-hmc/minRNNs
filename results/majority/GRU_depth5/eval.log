@@ -1,2 +1,2 @@
 Evaluating on test
-gru: GRU_depth5[test] loss 2.2191 acc 0.3791 (28.645 secs)
+gru: GRU_depth5[test] loss 1.4880 acc 0.5477 (27.199 secs)

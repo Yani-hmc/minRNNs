@@ -1,2 +1,2 @@
 Evaluating on test
-lstm: LSTM_depth1[test] loss 2.3116 acc 0.3826 (6.583 secs)
+lstm: LSTM_depth1[test] loss 1.6376 acc 0.5581 (6.219 secs)

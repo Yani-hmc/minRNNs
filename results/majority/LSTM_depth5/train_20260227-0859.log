@@ -1,0 +1,75 @@
+Experiment: LSTM_depth5
+Total number of parameters: 3004928
+
+lstm:LSTM_depth5 step 0 lr 3.000e-04 [train] loss 4.2586 acc 0.0078 (0.506 secs)
+Evaluating on val
+lstm: LSTM_depth5[val] loss 4.2098 acc 0.0224 (28.366 secs)
+
+Early Stopping!
+lstm:LSTM_depth5 step 200 lr 3.000e-04 [train] loss 2.6561 acc 0.3708 (54.255 secs)
+lstm:LSTM_depth5 step 400 lr 3.000e-04 [train] loss 1.4958 acc 0.5948 (12.548 secs)
+Evaluating on val
+lstm: LSTM_depth5[val] loss 3.3568 acc 0.2177 (28.107 secs)
+
+Early Stopping!
+lstm:LSTM_depth5 step 600 lr 3.000e-04 [train] loss 1.1244 acc 0.6771 (41.136 secs)
+lstm:LSTM_depth5 step 800 lr 3.000e-04 [train] loss 0.9160 acc 0.7348 (13.688 secs)
+lstm:LSTM_depth5 step 1000 lr 3.000e-04 [train] loss 0.8218 acc 0.7532 (13.248 secs)
+Evaluating on val
+lstm: LSTM_depth5[val] loss 2.7932 acc 0.3230 (28.300 secs)
+
+Early Stopping!
+lstm:LSTM_depth5 step 1200 lr 3.000e-04 [train] loss 0.6912 acc 0.7847 (43.566 secs)
+lstm:LSTM_depth5 step 1400 lr 3.000e-04 [train] loss 0.6074 acc 0.8075 (12.741 secs)
+Evaluating on val
+lstm: LSTM_depth5[val] loss 2.6013 acc 0.3703 (28.257 secs)
+
+Early Stopping!
+lstm:LSTM_depth5 step 1600 lr 3.000e-04 [train] loss 0.5810 acc 0.8162 (41.593 secs)
+lstm:LSTM_depth5 step 1800 lr 3.000e-04 [train] loss 0.5224 acc 0.8314 (13.910 secs)
+lstm:LSTM_depth5 step 2000 lr 3.000e-04 [train] loss 0.5044 acc 0.8332 (12.884 secs)
+Evaluating on val
+lstm: LSTM_depth5[val] loss 2.3227 acc 0.4227 (28.240 secs)
+
+Early Stopping!
+lstm:LSTM_depth5 step 2200 lr 3.000e-04 [train] loss 0.4647 acc 0.8488 (43.801 secs)
+lstm:LSTM_depth5 step 2400 lr 3.000e-04 [train] loss 0.4838 acc 0.8366 (13.810 secs)
+Evaluating on val
+lstm: LSTM_depth5[val] loss 2.1368 acc 0.4573 (28.318 secs)
+
+Early Stopping!
+lstm:LSTM_depth5 step 2600 lr 3.000e-04 [train] loss 0.4306 acc 0.8585 (42.180 secs)
+lstm:LSTM_depth5 step 2800 lr 3.000e-04 [train] loss 0.4236 acc 0.8555 (14.597 secs)
+lstm:LSTM_depth5 step 3000 lr 3.000e-04 [train] loss 0.3898 acc 0.8689 (12.820 secs)
+Evaluating on val
+lstm: LSTM_depth5[val] loss 2.0731 acc 0.4732 (28.151 secs)
+
+Early Stopping!
+lstm:LSTM_depth5 step 3200 lr 3.000e-04 [train] loss 0.3593 acc 0.8803 (42.312 secs)
+lstm:LSTM_depth5 step 3400 lr 3.000e-04 [train] loss 0.3575 acc 0.8792 (12.681 secs)
+Evaluating on val
+lstm: LSTM_depth5[val] loss 1.7720 acc 0.5241 (28.102 secs)
+
+Early Stopping!
+lstm:LSTM_depth5 step 3600 lr 3.000e-04 [train] loss 0.3492 acc 0.8825 (41.041 secs)
+lstm:LSTM_depth5 step 3800 lr 3.000e-04 [train] loss 0.3425 acc 0.8804 (13.490 secs)
+lstm:LSTM_depth5 step 4000 lr 3.000e-04 [train] loss 0.3526 acc 0.8788 (12.915 secs)
+Evaluating on val
+lstm: LSTM_depth5[val] loss 1.9566 acc 0.5012 (28.332 secs)
+
+lstm:LSTM_depth5 step 4200 lr 3.000e-04 [train] loss 0.3406 acc 0.8800 (43.664 secs)
+lstm:LSTM_depth5 step 4400 lr 3.000e-04 [train] loss 0.3098 acc 0.8956 (14.394 secs)
+Evaluating on val
+lstm: LSTM_depth5[val] loss 1.6903 acc 0.5498 (28.339 secs)
+
+Early Stopping!
+lstm:LSTM_depth5 step 4600 lr 3.000e-04 [train] loss 0.2951 acc 0.8983 (42.548 secs)
+lstm:LSTM_depth5 step 4800 lr 3.000e-04 [train] loss 0.2716 acc 0.9064 (13.476 secs)
+lstm:LSTM_depth5 step 5000 lr 3.000e-04 [train] loss 0.2945 acc 0.8987 (13.388 secs)
+Evaluating on val
+lstm: LSTM_depth5[val] loss 1.7029 acc 0.5521 (28.256 secs)
+
+Early Stopping!
+Evaluating on test
+lstm: LSTM_depth5[test] loss 1.7568 acc 0.5433 (30.326 secs)
+

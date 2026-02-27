@@ -1,0 +1,75 @@
+Experiment: GRU_depth5
+Total number of parameters: 2345728
+
+gru:GRU_depth5 step 0 lr 3.000e-04 [train] loss 4.2763 acc 0.0234 (0.426 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 4.2324 acc 0.0264 (25.986 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 200 lr 3.000e-04 [train] loss 2.8287 acc 0.3418 (43.473 secs)
+gru:GRU_depth5 step 400 lr 3.000e-04 [train] loss 1.6850 acc 0.5499 (13.182 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 2.7753 acc 0.2773 (25.735 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 600 lr 3.000e-04 [train] loss 1.2214 acc 0.6573 (39.182 secs)
+gru:GRU_depth5 step 800 lr 3.000e-04 [train] loss 1.0476 acc 0.6949 (14.048 secs)
+gru:GRU_depth5 step 1000 lr 3.000e-04 [train] loss 0.8773 acc 0.7371 (12.824 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 2.4692 acc 0.3319 (25.887 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 1200 lr 3.000e-04 [train] loss 0.7700 acc 0.7659 (40.515 secs)
+gru:GRU_depth5 step 1400 lr 3.000e-04 [train] loss 0.6947 acc 0.7825 (12.878 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 2.2237 acc 0.3907 (25.852 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 1600 lr 3.000e-04 [train] loss 0.6445 acc 0.7967 (39.059 secs)
+gru:GRU_depth5 step 1800 lr 3.000e-04 [train] loss 0.5856 acc 0.8132 (13.140 secs)
+gru:GRU_depth5 step 2000 lr 3.000e-04 [train] loss 0.5774 acc 0.8137 (13.662 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 2.0615 acc 0.4230 (25.835 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 2200 lr 3.000e-04 [train] loss 0.5100 acc 0.8384 (40.258 secs)
+gru:GRU_depth5 step 2400 lr 3.000e-04 [train] loss 0.4852 acc 0.8407 (12.658 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 1.8089 acc 0.4731 (25.811 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 2600 lr 3.000e-04 [train] loss 0.4821 acc 0.8409 (39.234 secs)
+gru:GRU_depth5 step 2800 lr 3.000e-04 [train] loss 0.4560 acc 0.8495 (14.401 secs)
+gru:GRU_depth5 step 3000 lr 3.000e-04 [train] loss 0.4160 acc 0.8617 (12.379 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 1.7212 acc 0.4963 (25.896 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 3200 lr 3.000e-04 [train] loss 0.3986 acc 0.8680 (39.044 secs)
+gru:GRU_depth5 step 3400 lr 3.000e-04 [train] loss 0.3866 acc 0.8714 (12.193 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 1.7941 acc 0.4934 (25.790 secs)
+
+gru:GRU_depth5 step 3600 lr 3.000e-04 [train] loss 0.3909 acc 0.8662 (38.544 secs)
+gru:GRU_depth5 step 3800 lr 3.000e-04 [train] loss 0.3953 acc 0.8647 (13.295 secs)
+gru:GRU_depth5 step 4000 lr 3.000e-04 [train] loss 0.3795 acc 0.8682 (12.851 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 1.8503 acc 0.4966 (25.780 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 4200 lr 3.000e-04 [train] loss 0.3790 acc 0.8722 (40.175 secs)
+gru:GRU_depth5 step 4400 lr 3.000e-04 [train] loss 0.3576 acc 0.8762 (12.150 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 1.7423 acc 0.5035 (25.756 secs)
+
+Early Stopping!
+gru:GRU_depth5 step 4600 lr 3.000e-04 [train] loss 0.3847 acc 0.8670 (39.320 secs)
+gru:GRU_depth5 step 4800 lr 3.000e-04 [train] loss 0.3704 acc 0.8715 (15.131 secs)
+gru:GRU_depth5 step 5000 lr 3.000e-04 [train] loss 0.3588 acc 0.8730 (12.705 secs)
+Evaluating on val
+gru: GRU_depth5[val] loss 1.4457 acc 0.5572 (25.850 secs)
+
+Early Stopping!
+Evaluating on test
+gru: GRU_depth5[test] loss 1.4880 acc 0.5477 (27.199 secs)
+

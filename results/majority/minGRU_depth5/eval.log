@@ -1,2 +1,2 @@
 Evaluating on test
-minGRU: minGRU_depth5[test] loss 2.7456 acc 0.3007 (19.911 secs)
+minGRU: minGRU_depth5[test] loss 1.8085 acc 0.4934 (19.481 secs)

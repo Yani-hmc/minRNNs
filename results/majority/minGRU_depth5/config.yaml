@@ -7,7 +7,7 @@ d_out: 63
 dropout: 0.0
 enable_ff: false
 eval_batch_size: 256
-eval_freq: 300
+eval_freq: 500
 eval_num_batches: 200
 expand_dim: 1
 expid: minGRU_depth5
@@ -19,7 +19,7 @@ mode: train
 model: minGRU
 norm_type: RMSNorm
 num_layers: 5
-num_steps: 1200
+num_steps: 5000
 print_freq: 200
 root: ./results/majority/minGRU_depth5
 save_freq: 1000

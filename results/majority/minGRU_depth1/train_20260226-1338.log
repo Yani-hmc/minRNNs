@@ -1,0 +1,75 @@
+Experiment: minGRU_depth1
+Total number of parameters: 297984
+
+minGRU:minGRU_depth1 step 0 lr 3.000e-04 [train] loss 4.3163 acc 0.0000 (0.655 secs)
+Evaluating on val
+minGRU: minGRU_depth1[val] loss 4.2455 acc 0.0152 (4.051 secs)
+
+Early Stopping!
+minGRU:minGRU_depth1 step 200 lr 3.000e-04 [train] loss 3.7295 acc 0.1436 (5.951 secs)
+minGRU:minGRU_depth1 step 400 lr 3.000e-04 [train] loss 2.4494 acc 0.4163 (1.392 secs)
+Evaluating on val
+minGRU: minGRU_depth1[val] loss 3.2788 acc 0.1980 (4.050 secs)
+
+Early Stopping!
+minGRU:minGRU_depth1 step 600 lr 3.000e-04 [train] loss 1.7782 acc 0.5308 (6.952 secs)
+minGRU:minGRU_depth1 step 800 lr 3.000e-04 [train] loss 1.2849 acc 0.6384 (2.828 secs)
+minGRU:minGRU_depth1 step 1000 lr 3.000e-04 [train] loss 1.0925 acc 0.6766 (1.828 secs)
+Evaluating on val
+minGRU: minGRU_depth1[val] loss 2.6249 acc 0.2939 (4.092 secs)
+
+Early Stopping!
+minGRU:minGRU_depth1 step 1200 lr 3.000e-04 [train] loss 0.9509 acc 0.7145 (6.077 secs)
+minGRU:minGRU_depth1 step 1400 lr 3.000e-04 [train] loss 0.8088 acc 0.7513 (1.452 secs)
+Evaluating on val
+minGRU: minGRU_depth1[val] loss 2.1853 acc 0.3779 (4.123 secs)
+
+Early Stopping!
+minGRU:minGRU_depth1 step 1600 lr 3.000e-04 [train] loss 0.6905 acc 0.7880 (5.893 secs)
+minGRU:minGRU_depth1 step 1800 lr 3.000e-04 [train] loss 0.6657 acc 0.7940 (1.501 secs)
+minGRU:minGRU_depth1 step 2000 lr 3.000e-04 [train] loss 0.6307 acc 0.7982 (1.529 secs)
+Evaluating on val
+minGRU: minGRU_depth1[val] loss 2.0022 acc 0.4307 (4.095 secs)
+
+Early Stopping!
+minGRU:minGRU_depth1 step 2200 lr 3.000e-04 [train] loss 0.5556 acc 0.8279 (5.854 secs)
+minGRU:minGRU_depth1 step 2400 lr 3.000e-04 [train] loss 0.5251 acc 0.8296 (1.651 secs)
+Evaluating on val
+minGRU: minGRU_depth1[val] loss 1.9052 acc 0.4385 (4.059 secs)
+
+Early Stopping!
+minGRU:minGRU_depth1 step 2600 lr 3.000e-04 [train] loss 0.5271 acc 0.8309 (5.981 secs)
+minGRU:minGRU_depth1 step 2800 lr 3.000e-04 [train] loss 0.4694 acc 0.8461 (1.414 secs)
+minGRU:minGRU_depth1 step 3000 lr 3.000e-04 [train] loss 0.4439 acc 0.8544 (1.436 secs)
+Evaluating on val
+minGRU: minGRU_depth1[val] loss 1.8229 acc 0.4596 (4.034 secs)
+
+Early Stopping!
+minGRU:minGRU_depth1 step 3200 lr 3.000e-04 [train] loss 0.4581 acc 0.8537 (5.959 secs)
+minGRU:minGRU_depth1 step 3400 lr 3.000e-04 [train] loss 0.4264 acc 0.8597 (1.598 secs)
+Evaluating on val
+minGRU: minGRU_depth1[val] loss 1.8184 acc 0.4596 (4.011 secs)
+
+Early Stopping!
+minGRU:minGRU_depth1 step 3600 lr 3.000e-04 [train] loss 0.4292 acc 0.8555 (5.732 secs)
+minGRU:minGRU_depth1 step 3800 lr 3.000e-04 [train] loss 0.4166 acc 0.8604 (1.473 secs)
+minGRU:minGRU_depth1 step 4000 lr 3.000e-04 [train] loss 0.4022 acc 0.8659 (1.452 secs)
+Evaluating on val
+minGRU: minGRU_depth1[val] loss 1.7180 acc 0.4860 (4.017 secs)
+
+Early Stopping!
+minGRU:minGRU_depth1 step 4200 lr 3.000e-04 [train] loss 0.3770 acc 0.8715 (5.733 secs)
+minGRU:minGRU_depth1 step 4400 lr 3.000e-04 [train] loss 0.4055 acc 0.8605 (1.453 secs)
+Evaluating on val
+minGRU: minGRU_depth1[val] loss 1.6272 acc 0.4971 (4.005 secs)
+
+Early Stopping!
+minGRU:minGRU_depth1 step 4600 lr 3.000e-04 [train] loss 0.3833 acc 0.8715 (5.711 secs)
+minGRU:minGRU_depth1 step 4800 lr 3.000e-04 [train] loss 0.3700 acc 0.8737 (1.497 secs)
+minGRU:minGRU_depth1 step 5000 lr 3.000e-04 [train] loss 0.3697 acc 0.8736 (1.663 secs)
+Evaluating on val
+minGRU: minGRU_depth1[val] loss 1.7615 acc 0.4810 (4.008 secs)
+
+Evaluating on test
+minGRU: minGRU_depth1[test] loss 1.8390 acc 0.4662 (4.167 secs)
+
